@@ -1,0 +1,26 @@
+.tudo{
+margin:0px 0px 75px 0px;
+}
+#tudo{
+margin:0px 200px;
+}
+
+#desce{
+position:bottom;
+}
+#paragrafo{
+margin-left: 6px;
+margin-right: 6px;
+text-align: justify;
+font-family:comic Sans;
+font-size: 16;
+}
+.variavel{
+margin-left: 20px;
+margin-right:20px;
+text-align: justify;
+font-family:comic Sans;
+font-size: 16;
+position: bottom;
+}
+
